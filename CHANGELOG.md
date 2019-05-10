@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.175] - 2019-05-10
+
+## Changed
+- change novatel type of shaanqi 7 8 9 10.
+
 ## [1.0.174] - 2018-02-01
 
 ## Changed
